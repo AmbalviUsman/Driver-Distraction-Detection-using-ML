@@ -1,8 +1,6 @@
 # Driver-Distraction-Detection-using-ML
 
 --------------------------------------------------------Important-------------------------------------------------------------
-# Distracted Drivers Starter Project
-This starter project currently ranks in the top 15% of submissions and with a few minor changes can reach the top 10%.
 
 ## Dataset Source
 The dataset will be downloaded from kaggle's website.
